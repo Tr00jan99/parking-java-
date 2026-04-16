@@ -52,3 +52,4 @@ Fail `pom.xml` mengandungi library versi purba yang mempunyai CVE tinggi/kritika
 
 > [!CAUTION]
 > **AMARAN**: Sistem ini TIDAK SELAMAT untuk kegunaan produksi. Ia hanya untuk tujuan demonstrasi "vulnerability scanning".
+> 
